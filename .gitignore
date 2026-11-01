@@ -1,0 +1,14 @@
+# Executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build folders
+build/
+Debug/
+Release/
